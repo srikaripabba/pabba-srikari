@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pabba-srikari/static/css/main.ff02f4b5.css",
+    "main.js": "/pabba-srikari/static/js/main.dd909823.js",
+    "static/js/453.759a809a.chunk.js": "/pabba-srikari/static/js/453.759a809a.chunk.js",
+    "index.html": "/pabba-srikari/index.html",
+    "main.ff02f4b5.css.map": "/pabba-srikari/static/css/main.ff02f4b5.css.map",
+    "main.dd909823.js.map": "/pabba-srikari/static/js/main.dd909823.js.map",
+    "453.759a809a.chunk.js.map": "/pabba-srikari/static/js/453.759a809a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.dd909823.js"
+  ]
+}
